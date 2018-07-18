@@ -508,6 +508,44 @@ The results of T2 and T6 are presented in the table below:
 ### T4: The participants had to highlight the concepts as a cued recall process in a table of 6 × 4 with twenty four concepts, which they think they have modeled using Protégé.
 
 #### Participant 1
+<table style="width:100%">
+  <tr>
+    <td><strike>Child</strike></td>
+    <td>Grandfather</td>
+    <td><strike>Father</strike></td>
+    <td>family members</td>
+  </tr>
+ <tr>
+    <td>Grandson</td>
+    <td><strike>childs birthplace</strike></td>
+    <td>has kids</td>
+    <td><strike>gives birth</strike></td>
+  </tr>
+   <tr>
+    <td><strike>Person</strike></td>
+    <td>Sister</td>
+    <td><strike>has*</strike></td>
+    <td>time of birth</td>
+  </tr>
+   <tr>
+     <td><strike>is a*</strike></td>
+    <td><strike>Male</strike></td>
+    <td>Aunt</td>
+    <td><strike>Family Tree</strike></td>
+  </tr>
+   <tr>
+    <td><strike>Grandmother</strike></td>
+    <td>Daughter</td>
+    <td><strike>Female</strike></td>
+    <td>Cousin</td>
+  </tr>
+   <tr>
+    <td>Son</td>
+    <td><strike>Mother</strike></td>
+    <td>Uncle</td>
+    <td><strike>person name</strike></td>
+  </tr>
+</table> 
 
 #### Participant 2
  <table style="width:100%">
@@ -592,6 +630,44 @@ The results of T2 and T6 are presented in the table below:
 
 
 #### Participant 4
+<table style="width:100%">
+  <tr>
+    <td><strike>Child</strike></td>
+    <td>Grandfather</td>
+    <td><strike>Father</strike></td>
+    <td>family members</td>
+  </tr>
+ <tr>
+    <td>Grandson</td>
+    <td><strike>childs birthplace</strike></td>
+    <td>has kids</td>
+    <td><strike>gives birth</strike></td>
+  </tr>
+   <tr>
+    <td><strike>Person</strike></td>
+    <td>Sister</td>
+    <td><strike>has*</strike></td>
+    <td>time of birth</td>
+  </tr>
+   <tr>
+     <td><strike>is a*</strike></td>
+    <td><strike>Male</strike></td>
+    <td>Aunt</td>
+    <td><strike>Family Tree</strike></td>
+  </tr>
+   <tr>
+    <td><strike>Grandmother</strike></td>
+    <td>Daughter</td>
+    <td><strike>Female</strike></td>
+    <td>Cousin</td>
+  </tr>
+   <tr>
+    <td>Son</td>
+    <td><strike>Mother</strike></td>
+    <td>Uncle</td>
+    <td><strike>person name</strike></td>
+  </tr>
+</table> 
 
 #### Participant 5
 <table style="width:100%">
@@ -635,8 +711,84 @@ The results of T2 and T6 are presented in the table below:
 
 
 #### Participant 6
+<table style="width:100%">
+  <tr>
+    <td><strike>Child</strike></td>
+    <td>Grandfather</td>
+    <td><strike>Father</strike></td>
+    <td>family members</td>
+  </tr>
+ <tr>
+    <td>Grandson</td>
+    <td><strike>childs birthplace</strike></td>
+    <td>has kids</td>
+    <td><strike>gives birth</strike></td>
+  </tr>
+   <tr>
+    <td><strike>Person</strike></td>
+    <td>Sister</td>
+    <td><strike>has*</strike></td>
+    <td>time of birth</td>
+  </tr>
+   <tr>
+     <td><strike>is a*</strike></td>
+    <td><strike>Male</strike></td>
+    <td>Aunt</td>
+    <td><strike>Family Tree</strike></td>
+  </tr>
+   <tr>
+    <td><strike>Grandmother</strike></td>
+    <td>Daughter</td>
+    <td><strike>Female</strike></td>
+    <td>Cousin</td>
+  </tr>
+   <tr>
+    <td>Son</td>
+    <td><strike>Mother</strike></td>
+    <td>Uncle</td>
+    <td><strike>person name</strike></td>
+  </tr>
+</table> 
 
 #### Participant 7
+<table style="width:100%">
+  <tr>
+    <td><strike>Child</strike></td>
+    <td>Grandfather</td>
+    <td><strike>Father</strike></td>
+    <td>family members</td>
+  </tr>
+ <tr>
+    <td>Grandson</td>
+    <td><strike>childs birthplace</strike></td>
+    <td>has kids</td>
+    <td><strike>gives birth</strike></td>
+  </tr>
+   <tr>
+    <td><strike>Person</strike></td>
+    <td>Sister</td>
+    <td><strike>has*</strike></td>
+    <td>time of birth</td>
+  </tr>
+   <tr>
+     <td><strike>is a*</strike></td>
+    <td><strike>Male</strike></td>
+    <td>Aunt</td>
+    <td><strike>Family Tree</strike></td>
+  </tr>
+   <tr>
+    <td><strike>Grandmother</strike></td>
+    <td>Daughter</td>
+    <td><strike>Female</strike></td>
+    <td>Cousin</td>
+  </tr>
+   <tr>
+    <td>Son</td>
+    <td><strike>Mother</strike></td>
+    <td>Uncle</td>
+    <td><strike>person name</strike></td>
+  </tr>
+</table> 
 
 
 #### Participant 8
@@ -721,9 +873,85 @@ The results of T2 and T6 are presented in the table below:
 </table> 
 
 #### Participant 10
+<table style="width:100%">
+  <tr>
+    <td><strike>Child</strike></td>
+    <td>Grandfather</td>
+    <td><strike>Father</strike></td>
+    <td>family members</td>
+  </tr>
+ <tr>
+    <td>Grandson</td>
+    <td><strike>childs birthplace</strike></td>
+    <td>has kids</td>
+    <td><strike>gives birth</strike></td>
+  </tr>
+   <tr>
+    <td><strike>Person</strike></td>
+    <td>Sister</td>
+    <td><strike>has*</strike></td>
+    <td>time of birth</td>
+  </tr>
+   <tr>
+     <td><strike>is a*</strike></td>
+    <td><strike>Male</strike></td>
+    <td>Aunt</td>
+    <td><strike>Family Tree</strike></td>
+  </tr>
+   <tr>
+    <td><strike>Grandmother</strike></td>
+    <td>Daughter</td>
+    <td><strike>Female</strike></td>
+    <td>Cousin</td>
+  </tr>
+   <tr>
+    <td>Son</td>
+    <td><strike>Mother</strike></td>
+    <td>Uncle</td>
+    <td><strike>person name</strike></td>
+  </tr>
+</table> 
 
 
 #### Participant 11
+<table style="width:100%">
+  <tr>
+    <td><strike>Child</strike></td>
+    <td>Grandfather</td>
+    <td><strike>Father</strike></td>
+    <td>family members</td>
+  </tr>
+ <tr>
+    <td>Grandson</td>
+    <td><strike>childs birthplace</strike></td>
+    <td>has kids</td>
+    <td><strike>gives birth</strike></td>
+  </tr>
+   <tr>
+    <td><strike>Person</strike></td>
+    <td>Sister</td>
+    <td><strike>has*</strike></td>
+    <td>time of birth</td>
+  </tr>
+   <tr>
+     <td><strike>is a*</strike></td>
+    <td><strike>Male</strike></td>
+    <td>Aunt</td>
+    <td><strike>Family Tree</strike></td>
+  </tr>
+   <tr>
+    <td><strike>Grandmother</strike></td>
+    <td>Daughter</td>
+    <td><strike>Female</strike></td>
+    <td>Cousin</td>
+  </tr>
+   <tr>
+    <td>Son</td>
+    <td><strike>Mother</strike></td>
+    <td>Uncle</td>
+    <td><strike>person name</strike></td>
+  </tr>
+</table> 
 
 #### Participant 12
  <table style="width:100%">
@@ -1228,36 +1456,495 @@ Please refer to table shown in the Section T2 for the task completion time resul
 ### T8: The participants had to highlight the concepts as a cued recall process in a table of 6 × 4 with twenty four concepts, which they think they modeled using WebVOWL Editor.
 
 #### Participant 1
+<table style="width:100%">
+  <tr>
+    <td><strike>Vehicle</strike></td>
+    <td>Motor Bike</td>
+    <td><strike>Private Vehicle</strike></td>
+    <td>Transport</td>
+  </tr>
+ <tr>
+    <td>Jeep</td>
+    <td><strike>Bus</strike></td>
+    <td>car name</td>
+    <td><strike>manufactured by</strike></td>
+  </tr>
+   <tr>
+    <td><strike>is a*</strike></td>
+    <td>Brand name</td>
+    <td><strike>model name</strike></td>
+    <td>BMW</td>
+  </tr>
+   <tr>
+    <td>Wagon</td>
+    <td><strike>Car</strike></td>
+    <td>Suzuki</td>
+    <td><strike>City Traffic</strike></td>
+  </tr>
+   <tr>
+    <td><strike>Public Vehicle</strike></td>
+    <td>Horsepower</td>
+    <td><strike>Manufacturer</strike></td>
+    <td>Intercity Express</td>
+  </tr>
+   <tr>
+    <td><strike>manufacturing date</strike></td>
+    <td><strike>has*</strike></td>
+    <td>Traffic Signals</td>
+    <td><strike>Train</strike></td>
+  </tr>
+</table> 
+
 
 #### Participant 2
+<table style="width:100%">
+  <tr>
+    <td><strike>Child</strike></td>
+    <td>Grandfather</td>
+    <td><strike>Father</strike></td>
+    <td>family members</td>
+  </tr>
+ <tr>
+    <td>Grandson</td>
+    <td><strike>childs birthplace</strike></td>
+    <td>has kids</td>
+    <td><strike>gives birth</strike></td>
+  </tr>
+   <tr>
+    <td><strike>Person</strike></td>
+    <td>Sister</td>
+    <td><strike>has*</strike></td>
+    <td>time of birth</td>
+  </tr>
+   <tr>
+     <td><strike>is a*</strike></td>
+    <td><strike>Male</strike></td>
+    <td>Aunt</td>
+    <td><strike>Family Tree</strike></td>
+  </tr>
+   <tr>
+    <td><strike>Grandmother</strike></td>
+    <td>Daughter</td>
+    <td><strike>Female</strike></td>
+    <td>Cousin</td>
+  </tr>
+   <tr>
+    <td>Son</td>
+    <td><strike>Mother</strike></td>
+    <td>Uncle</td>
+    <td><strike>person name</strike></td>
+  </tr>
+</table> 
 
 
 #### Participant 3
+<table style="width:100%">
+  <tr>
+    <td><strike>Child</strike></td>
+    <td>Grandfather</td>
+    <td><strike>Father</strike></td>
+    <td>family members</td>
+  </tr>
+ <tr>
+    <td>Grandson</td>
+    <td><strike>childs birthplace</strike></td>
+    <td>has kids</td>
+    <td><strike>gives birth</strike></td>
+  </tr>
+   <tr>
+    <td><strike>Person</strike></td>
+    <td>Sister</td>
+    <td><strike>has*</strike></td>
+    <td>time of birth</td>
+  </tr>
+   <tr>
+     <td><strike>is a*</strike></td>
+    <td><strike>Male</strike></td>
+    <td>Aunt</td>
+    <td><strike>Family Tree</strike></td>
+  </tr>
+   <tr>
+    <td><strike>Grandmother</strike></td>
+    <td>Daughter</td>
+    <td><strike>Female</strike></td>
+    <td>Cousin</td>
+  </tr>
+   <tr>
+    <td>Son</td>
+    <td><strike>Mother</strike></td>
+    <td>Uncle</td>
+    <td><strike>person name</strike></td>
+  </tr>
+</table> 
 
 #### Participant 4
- 
+ <table style="width:100%">
+  <tr>
+    <td><strike>Vehicle</strike></td>
+    <td>Motor Bike</td>
+    <td><strike>Private Vehicle</strike></td>
+    <td>Transport</td>
+  </tr>
+ <tr>
+    <td>Jeep</td>
+    <td><strike>Bus</strike></td>
+    <td>car name</td>
+    <td><strike>manufactured by</strike></td>
+  </tr>
+   <tr>
+    <td><strike>is a*</strike></td>
+    <td>Brand name</td>
+    <td><strike>model name</strike></td>
+    <td>BMW</td>
+  </tr>
+   <tr>
+    <td>Wagon</td>
+    <td><strike>Car</strike></td>
+    <td>Suzuki</td>
+    <td><strike>City Traffic</strike></td>
+  </tr>
+   <tr>
+    <td><strike>Public Vehicle</strike></td>
+    <td>Horsepower</td>
+    <td><strike>Manufacturer</strike></td>
+    <td>Intercity Express</td>
+  </tr>
+   <tr>
+    <td><strike>manufacturing date</strike></td>
+    <td><strike>has*</strike></td>
+    <td>Traffic Signals</td>
+    <td><strike>Train</strike></td>
+  </tr>
+</table> 
+
 
 #### Participant 5
+<table style="width:100%">
+  <tr>
+    <td><strike>Child</strike></td>
+    <td>Grandfather</td>
+    <td><strike>Father</strike></td>
+    <td>family members</td>
+  </tr>
+ <tr>
+    <td>Grandson</td>
+    <td><strike>childs birthplace</strike></td>
+    <td>has kids</td>
+    <td><strike>gives birth</strike></td>
+  </tr>
+   <tr>
+    <td><strike>Person</strike></td>
+    <td>Sister</td>
+    <td><strike>has*</strike></td>
+    <td>time of birth</td>
+  </tr>
+   <tr>
+     <td><strike>is a*</strike></td>
+    <td><strike>Male</strike></td>
+    <td>Aunt</td>
+    <td><strike>Family Tree</strike></td>
+  </tr>
+   <tr>
+    <td><strike>Grandmother</strike></td>
+    <td>Daughter</td>
+    <td><strike>Female</strike></td>
+    <td>Cousin</td>
+  </tr>
+   <tr>
+    <td>Son</td>
+    <td><strike>Mother</strike></td>
+    <td>Uncle</td>
+    <td><strike>person name</strike></td>
+  </tr>
+</table> 
 
 
 #### Participant 6
+<table style="width:100%">
+  <tr>
+    <td><strike>Vehicle</strike></td>
+    <td>Motor Bike</td>
+    <td><strike>Private Vehicle</strike></td>
+    <td>Transport</td>
+  </tr>
+ <tr>
+    <td>Jeep</td>
+    <td><strike>Bus</strike></td>
+    <td>car name</td>
+    <td><strike>manufactured by</strike></td>
+  </tr>
+   <tr>
+    <td><strike>is a*</strike></td>
+    <td>Brand name</td>
+    <td><strike>model name</strike></td>
+    <td>BMW</td>
+  </tr>
+   <tr>
+    <td>Wagon</td>
+    <td><strike>Car</strike></td>
+    <td>Suzuki</td>
+    <td><strike>City Traffic</strike></td>
+  </tr>
+   <tr>
+    <td><strike>Public Vehicle</strike></td>
+    <td>Horsepower</td>
+    <td><strike>Manufacturer</strike></td>
+    <td>Intercity Express</td>
+  </tr>
+   <tr>
+    <td><strike>manufacturing date</strike></td>
+    <td><strike>has*</strike></td>
+    <td>Traffic Signals</td>
+    <td><strike>Train</strike></td>
+  </tr>
+</table> 
 
 
 #### Participant 7
+<table style="width:100%">
+  <tr>
+    <td><strike>Vehicle</strike></td>
+    <td>Motor Bike</td>
+    <td><strike>Private Vehicle</strike></td>
+    <td>Transport</td>
+  </tr>
+ <tr>
+    <td>Jeep</td>
+    <td><strike>Bus</strike></td>
+    <td>car name</td>
+    <td><strike>manufactured by</strike></td>
+  </tr>
+   <tr>
+    <td><strike>is a*</strike></td>
+    <td>Brand name</td>
+    <td><strike>model name</strike></td>
+    <td>BMW</td>
+  </tr>
+   <tr>
+    <td>Wagon</td>
+    <td><strike>Car</strike></td>
+    <td>Suzuki</td>
+    <td><strike>City Traffic</strike></td>
+  </tr>
+   <tr>
+    <td><strike>Public Vehicle</strike></td>
+    <td>Horsepower</td>
+    <td><strike>Manufacturer</strike></td>
+    <td>Intercity Express</td>
+  </tr>
+   <tr>
+    <td><strike>manufacturing date</strike></td>
+    <td><strike>has*</strike></td>
+    <td>Traffic Signals</td>
+    <td><strike>Train</strike></td>
+  </tr>
+</table> 
 
 #### Participant 8
+<table style="width:100%">
+  <tr>
+    <td><strike>Child</strike></td>
+    <td>Grandfather</td>
+    <td><strike>Father</strike></td>
+    <td>family members</td>
+  </tr>
+ <tr>
+    <td>Grandson</td>
+    <td><strike>childs birthplace</strike></td>
+    <td>has kids</td>
+    <td><strike>gives birth</strike></td>
+  </tr>
+   <tr>
+    <td><strike>Person</strike></td>
+    <td>Sister</td>
+    <td><strike>has*</strike></td>
+    <td>time of birth</td>
+  </tr>
+   <tr>
+     <td><strike>is a*</strike></td>
+    <td><strike>Male</strike></td>
+    <td>Aunt</td>
+    <td><strike>Family Tree</strike></td>
+  </tr>
+   <tr>
+    <td><strike>Grandmother</strike></td>
+    <td>Daughter</td>
+    <td><strike>Female</strike></td>
+    <td>Cousin</td>
+  </tr>
+   <tr>
+    <td>Son</td>
+    <td><strike>Mother</strike></td>
+    <td>Uncle</td>
+    <td><strike>person name</strike></td>
+  </tr>
+</table> 
 
 
 #### Participant 9
+<table style="width:100%">
+  <tr>
+    <td><strike>Child</strike></td>
+    <td>Grandfather</td>
+    <td><strike>Father</strike></td>
+    <td>family members</td>
+  </tr>
+ <tr>
+    <td>Grandson</td>
+    <td><strike>childs birthplace</strike></td>
+    <td>has kids</td>
+    <td><strike>gives birth</strike></td>
+  </tr>
+   <tr>
+    <td><strike>Person</strike></td>
+    <td>Sister</td>
+    <td><strike>has*</strike></td>
+    <td>time of birth</td>
+  </tr>
+   <tr>
+     <td><strike>is a*</strike></td>
+    <td><strike>Male</strike></td>
+    <td>Aunt</td>
+    <td><strike>Family Tree</strike></td>
+  </tr>
+   <tr>
+    <td><strike>Grandmother</strike></td>
+    <td>Daughter</td>
+    <td><strike>Female</strike></td>
+    <td>Cousin</td>
+  </tr>
+   <tr>
+    <td>Son</td>
+    <td><strike>Mother</strike></td>
+    <td>Uncle</td>
+    <td><strike>person name</strike></td>
+  </tr>
+</table> 
 
 
 #### Participant 10
+<table style="width:100%">
+  <tr>
+    <td><strike>Vehicle</strike></td>
+    <td>Motor Bike</td>
+    <td><strike>Private Vehicle</strike></td>
+    <td>Transport</td>
+  </tr>
+ <tr>
+    <td>Jeep</td>
+    <td><strike>Bus</strike></td>
+    <td>car name</td>
+    <td><strike>manufactured by</strike></td>
+  </tr>
+   <tr>
+    <td><strike>is a*</strike></td>
+    <td>Brand name</td>
+    <td><strike>model name</strike></td>
+    <td>BMW</td>
+  </tr>
+   <tr>
+    <td>Wagon</td>
+    <td><strike>Car</strike></td>
+    <td>Suzuki</td>
+    <td><strike>City Traffic</strike></td>
+  </tr>
+   <tr>
+    <td><strike>Public Vehicle</strike></td>
+    <td>Horsepower</td>
+    <td><strike>Manufacturer</strike></td>
+    <td>Intercity Express</td>
+  </tr>
+   <tr>
+    <td><strike>manufacturing date</strike></td>
+    <td><strike>has*</strike></td>
+    <td>Traffic Signals</td>
+    <td><strike>Train</strike></td>
+  </tr>
+</table> 
 
 
 #### Participant 11
+<table style="width:100%">
+  <tr>
+    <td><strike>Vehicle</strike></td>
+    <td>Motor Bike</td>
+    <td><strike>Private Vehicle</strike></td>
+    <td>Transport</td>
+  </tr>
+ <tr>
+    <td>Jeep</td>
+    <td><strike>Bus</strike></td>
+    <td>car name</td>
+    <td><strike>manufactured by</strike></td>
+  </tr>
+   <tr>
+    <td><strike>is a*</strike></td>
+    <td>Brand name</td>
+    <td><strike>model name</strike></td>
+    <td>BMW</td>
+  </tr>
+   <tr>
+    <td>Wagon</td>
+    <td><strike>Car</strike></td>
+    <td>Suzuki</td>
+    <td><strike>City Traffic</strike></td>
+  </tr>
+   <tr>
+    <td><strike>Public Vehicle</strike></td>
+    <td>Horsepower</td>
+    <td><strike>Manufacturer</strike></td>
+    <td>Intercity Express</td>
+  </tr>
+   <tr>
+    <td><strike>manufacturing date</strike></td>
+    <td><strike>has*</strike></td>
+    <td>Traffic Signals</td>
+    <td><strike>Train</strike></td>
+  </tr>
+</table> 
 
 
 #### Participant 12
+
+<table style="width:100%">
+  <tr>
+    <td><strike>Child</strike></td>
+    <td>Grandfather</td>
+    <td><strike>Father</strike></td>
+    <td>family members</td>
+  </tr>
+ <tr>
+    <td>Grandson</td>
+    <td><strike>childs birthplace</strike></td>
+    <td>has kids</td>
+    <td><strike>gives birth</strike></td>
+  </tr>
+   <tr>
+    <td><strike>Person</strike></td>
+    <td>Sister</td>
+    <td><strike>has*</strike></td>
+    <td>time of birth</td>
+  </tr>
+   <tr>
+     <td><strike>is a*</strike></td>
+    <td><strike>Male</strike></td>
+    <td>Aunt</td>
+    <td><strike>Family Tree</strike></td>
+  </tr>
+   <tr>
+    <td><strike>Grandmother</strike></td>
+    <td>Daughter</td>
+    <td><strike>Female</strike></td>
+    <td>Cousin</td>
+  </tr>
+   <tr>
+    <td>Son</td>
+    <td><strike>Mother</strike></td>
+    <td>Uncle</td>
+    <td><strike>person name</strike></td>
+  </tr>
+</table> 
+
 
 ### T9: Based on the modeled concept space of the task T6, the participants had to fill out a CSUQ questionnaire as a post task.
 <table style="width:100%">
