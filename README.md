@@ -285,6 +285,7 @@ Below we present the result recorded based on the tasks that users performed:
 
 ### T2: Using Protégé, the participants had to model an ontology for the Family Tree Space or the City Traffic Space.
 
+User task modeling files for both the tools can be found in the [directory](https://github.com/RohanAsmat/VisualOntologyModelingEvaluationData/tree/master/modelingTaskExperimentFiles).
 The results of T2 and T6 are presented in the table below:
 
 <table style="width:100%">
@@ -1337,6 +1338,8 @@ The results of T2 and T6 are presented in the table below:
 
 ### T6: Using WebVOWL Editor, the participants had to model an ontology for the Family Tree Space or the City Traffic Space.
 Please refer to table shown in the Section T2 for the task completion time results with WebVOWL Editor.
+
+User task modeling files for both the tools can be found in the [directory](https://github.com/RohanAsmat/VisualOntologyModelingEvaluationData/tree/master/modelingTaskExperimentFiles).
 
 ### T7: Based on the modeled concept space of the task T6, the participants had to fill out an ASQ questionnaire as a post task.
 <table style="width:100%">
