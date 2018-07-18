@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-67#"
+     xml:base="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-67"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-67"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-67#hasVehicle -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-67#hasVehicle">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-67#CityTraffic"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-67#Vehicle"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-67#manufacturedBy -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-67#manufacturedBy">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-67#Vehicle"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-67#Manufacturer"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-67#manufacturingDate -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-67#manufacturingDate">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-67#Vehicle"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-67#modelName -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-67#modelName">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-67#Vehicle"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-67#Bus -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-67#Bus">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-67#PublicVehicle"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-67#Car -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-67#Car">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-67#PrivateVehicle"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-67#CityTraffic -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-67#CityTraffic"/>
+    
+
+
+    <!-- http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-67#Manufacturer -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-67#Manufacturer"/>
+    
+
+
+    <!-- http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-67#PrivateVehicle -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-67#PrivateVehicle">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-67#Vehicle"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-67#PublicVehicle -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-67#PublicVehicle">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-67#Vehicle"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-67#Train -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-67#Train">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-67#PublicVehicle"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-67#Vehicle -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-67#Vehicle"/>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi -->
+

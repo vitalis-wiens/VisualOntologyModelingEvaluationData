@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-53#"
+     xml:base="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-53"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-53"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-53#has -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-53#has">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-53#MediaNetwork"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-53#Channel"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-53#hasTime -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-53#hasTime">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-53#NewsProgram"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-53#AiringTime"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-53#shows -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-53#shows">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.w3.org/2002/07/owl#topObjectProperty -->
+
+    <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#topObjectProperty">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-53#NewsChannel"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-53#NewsProgram"/>
+    </rdf:Description>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-53#channelName -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-53#channelName">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-53#Channel"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-53#AiringTime -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-53#AiringTime"/>
+    
+
+
+    <!-- http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-53#Channel -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-53#Channel"/>
+    
+
+
+    <!-- http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-53#DailyNewsChannel -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-53#DailyNewsChannel">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-53#NewsChannel"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-53#InternationalSportsChannel -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-53#InternationalSportsChannel">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-53#SportsChannel"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-53#LocalSportsChannel -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-53#LocalSportsChannel">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-53#SportsChannel"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-53#MediaNetwork -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-53#MediaNetwork"/>
+    
+
+
+    <!-- http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-53#NewsChannel -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-53#NewsChannel">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-53#Channel"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-53#NewsProgram -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-53#NewsProgram"/>
+    
+
+
+    <!-- http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-53#SportsChannel -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-53#SportsChannel">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-53#Channel"/>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi -->
+

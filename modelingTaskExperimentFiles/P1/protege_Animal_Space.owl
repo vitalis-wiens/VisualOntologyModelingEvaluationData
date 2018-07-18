@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-69#"
+     xml:base="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-69"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-69"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-69#eats -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-69#eats">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-69#Herbivores"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-69#Grass"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-69#grassType -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-69#grassType">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-69#Grass"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-69#has -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-69#has">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-69#Zoo"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-69#Animal"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-69#hasLegs -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-69#hasLegs">
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-69#Animal -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-69#Animal"/>
+    
+
+
+    <!-- http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-69#Carnivores -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-69#Carnivores">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-69#Animal"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-69#Cheetah -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-69#Cheetah">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-69#Carnivores"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-69#Goat -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-69#Goat">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-69#Herbivores"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-69#Grass -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-69#Grass"/>
+    
+
+
+    <!-- http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-69#Herbivores -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-69#Herbivores">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-69#Animal"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-69#SnowLeopard -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-69#SnowLeopard">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-69#Carnivores"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-69#Zoo -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/masmat/ontologies/2018/5/untitled-ontology-69#Zoo"/>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi -->
+
