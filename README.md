@@ -562,7 +562,7 @@ The results of T2 and T6 are presented in the table below:
     <td><strike>manufactured by</strike></td>
   </tr>
    <tr>
-    <td><strike>is a*</strike></td>
+    <td>is a*</td>
     <td>Brand name</td>
     <td><strike>model name</strike></td>
     <td>BMW</td>
@@ -576,12 +576,12 @@ The results of T2 and T6 are presented in the table below:
    <tr>
     <td><strike>Public Vehicle</strike></td>
     <td>Horsepower</td>
-    <td><strike>Manufacturer</strike></td>
+    <td>Manufacturer</td>
     <td>Intercity Express</td>
   </tr>
    <tr>
     <td><strike>manufacturing date</strike></td>
-    <td><strike>has*</strike></td>
+    <td>has*</td>
     <td>Traffic Signals</td>
     <td><strike>Train</strike></td>
   </tr>
