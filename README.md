@@ -772,7 +772,7 @@ The results of T2 and T6 are presented in the table below:
   </tr>
    <tr>
      <td><strike>is a*</strike></td>
-    <td><strike>Male</strike></td>
+    <td>Male</td>
     <td>Aunt</td>
     <td><strike>Family Tree</strike></td>
   </tr>
