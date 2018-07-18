@@ -884,7 +884,7 @@ The results of T2 and T6 are presented in the table below:
     <td>Grandson</td>
     <td><strike>childs birthplace</strike></td>
     <td>has kids</td>
-    <td><strike>gives birth</strike></td>
+    <td>gives birth</td>
   </tr>
    <tr>
     <td><strike>Person</strike></td>
@@ -901,7 +901,7 @@ The results of T2 and T6 are presented in the table below:
    <tr>
     <td><strike>Grandmother</strike></td>
     <td>Daughter</td>
-    <td><strike>Female</strike></td>
+    <td><strike>Female</strike>cipant</td>
     <td>Cousin</td>
   </tr>
    <tr>
@@ -1855,7 +1855,7 @@ Please refer to table shown in the Section T2 for the task completion time resul
     <td>Intercity Express</td>
   </tr>
    <tr>
-    <td><strike>manufacturing date</strike></td>
+    <td>manufacturing date</td>
     <td><strike>has*</strike></td>
     <td>Traffic Signals</td>
     <td><strike>Train</strike></td>
