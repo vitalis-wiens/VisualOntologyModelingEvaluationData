@@ -510,6 +510,7 @@ The results of T2 and T6 are presented in the table below:
 ### T5: Based on the modeled concept space of the task T2, the participants had to fill out a Computer System Usability Questionnaire (CSUQ) as a post study task. 
 
 ### T6: Using WebVOWL Editor, the participants had to model an ontology for the Family Tree Space or the City Traffic Space.
+Please refer to table shown in the Section T2 for the task completion time results with WebVOWL Editor.
 
 ### T7: Based on the modeled concept space of the task T6, the participants had to fill out an ASQ questionnaire as a post task.
 <table style="width:100%">
