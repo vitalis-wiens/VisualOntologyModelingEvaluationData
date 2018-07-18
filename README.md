@@ -390,6 +390,120 @@ The results of T2 and T6 are presented in the table below:
 
 
 ### T3: Based on the modeled concept space of the task T2, the participants had to fill out an After-Scenario Questionnaire (ASQ) as a post task.
+<table style="width:100%">
+  <tr>
+    <th></th>
+    <th colspan="3"><b>Participant Choice on Likert Scale</b></th>
+  </tr>
+  <tr>
+    <th><b>Participant ID</b></th>
+    <th><b>Question 1</b></th>
+    <th><b>Question 2</b></th>
+    <th><b>Question 3</b></th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>7</td>
+    <td>7</td>
+    <td>7</td>
+  </tr>
+  
+  <tr>
+    <td>2</td>
+    <td>6</td>
+    <td>3</td>
+    <td>4</td>
+  </tr>
+  
+  
+  <tr>
+    <td>3</td>
+    <td>4</td>
+    <td>5</td>
+    <td>4</td>
+  </tr>
+  
+  
+  <tr>
+    <td>4</td>
+    <td>7</td>
+    <td>7</td>
+    <td>4</td>
+  </tr>
+  
+  
+  <tr>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+    <td>6</td>
+  </tr>
+  
+  
+  <tr>
+    <td>6</td>
+    <td>6</td>
+    <td>6</td>
+    <td>5</td>
+  </tr>
+  
+  
+  <tr>
+    <td>7</td>
+    <td>5</td>
+    <td>5</td>
+    <td>7</td>
+  </tr>
+  
+  
+  <tr>
+    <td>8</td>
+    <td>7</td>
+    <td>6</td>
+    <td>6</td>
+  </tr>
+  
+  
+  <tr>
+    <td>9</td>
+    <td>5</td>
+    <td>6</td>
+    <td>0</td>
+  </tr>
+  
+  
+  <tr>
+    <td>10</td>
+    <td>5</td>
+    <td>5</td>
+    <td>6</td>
+  </tr>
+  
+  
+  <tr>
+    <td>11</td>
+    <td>6</td>
+    <td>5</td>
+    <td>6</td>
+  </tr>
+  
+  
+  <tr>
+    <td>12</td>
+    <td>5</td>
+    <td>4</td>
+    <td>0</td>
+  </tr>
+  
+  
+  <tr>
+    <td><b>Mean Score:</b></td>
+    <td>5.667</td>
+    <td>5.333</td>
+    <td>4.583</td>
+  </tr>
+ </table>
+
 
 ### T4: The participants had to highlight the concepts as a cued recall process in a table of 6 × 4 with twenty four concepts, which they think they have modeled using Protégé.
 
