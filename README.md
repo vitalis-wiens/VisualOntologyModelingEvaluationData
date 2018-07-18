@@ -714,13 +714,13 @@ The results of T2 and T6 are presented in the table below:
 <table style="width:100%">
   <tr>
     <td><strike>Child</strike></td>
-    <td>Grandfather</td>
+    <td><strike>Grandfather</strike></td>
     <td><strike>Father</strike></td>
     <td>family members</td>
   </tr>
  <tr>
     <td>Grandson</td>
-    <td><strike>childs birthplace</strike></td>
+    <td>childs birthplace</td>
     <td>has kids</td>
     <td><strike>gives birth</strike></td>
   </tr>
@@ -1693,7 +1693,7 @@ Please refer to table shown in the Section T2 for the task completion time resul
   </tr>
    <tr>
     <td><strike>manufacturing date</strike></td>
-    <td><strike>has*</strike></td>
+    <td>has*</td>
     <td>Traffic Signals</td>
     <td><strike>Train</strike></td>
   </tr>
