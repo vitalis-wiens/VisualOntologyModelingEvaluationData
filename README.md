@@ -507,6 +507,352 @@ The results of T2 and T6 are presented in the table below:
 
 ### T4: The participants had to highlight the concepts as a cued recall process in a table of 6 × 4 with twenty four concepts, which they think they have modeled using Protégé.
 
+#### Participant 1
+<table style="width:100%">
+  <tr>
+    <td>Child</td>
+    <td>childs birthplace</td>
+    <td>Family Tree</td>
+  </tr>
+  <tr>
+    <td>Female</td>
+    <td>Mother</td>
+    <td>Grandmother</td>
+  </tr>
+   <tr>
+    <td>Male</td>
+    <td>gives birth</td>
+    <td>Father</td>
+  </tr>
+   <tr>
+    <td>Person</td>
+    <td>person name</td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>has*</td>
+    <td>Is a*</td>
+    <td></td>
+  </tr>
+</table> 
+
+#### Participant 2
+ <table style="width:100%">
+  <tr>
+    <td>Vehicle</td>
+    <td>Bus</td>
+    <td>model name</td>
+  </tr>
+  <tr>
+    <td>Manufacturer</td>
+    <td>City Traffic</td>
+    <td>Public Vehicle</td>
+  </tr>
+   <tr>
+    <td>Car</td>
+    <td>manufactured by</td>
+    <td>Private Vehicle</td>
+  </tr>
+   <tr>
+    <td>Train</td>
+    <td>manufacturing date</td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>has*</td>
+    <td>Is a*</td>
+    <td></td>
+  </tr>
+</table> 
+
+#### Participant 3
+ <table style="width:100%">
+  <tr>
+    <td>Vehicle</td>
+    <td>Bus</td>
+    <td>model name</td>
+  </tr>
+  <tr>
+    <td>Manufacturer</td>
+    <td>City Traffic</td>
+    <td>Public Vehicle</td>
+  </tr>
+   <tr>
+    <td>Car</td>
+    <td>manufactured by</td>
+    <td>Private Vehicle</td>
+  </tr>
+   <tr>
+    <td>Train</td>
+    <td>manufacturing date</td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>has*</td>
+    <td>Is a*</td>
+    <td></td>
+  </tr>
+</table> 
+
+#### Participant 4
+<table style="width:100%">
+  <tr>
+    <td>Child</td>
+    <td>childs birthplace</td>
+    <td>Family Tree</td>
+  </tr>
+  <tr>
+    <td>Female</td>
+    <td>Mother</td>
+    <td>Grandmother</td>
+  </tr>
+   <tr>
+    <td>Male</td>
+    <td>gives birth</td>
+    <td>Father</td>
+  </tr>
+   <tr>
+    <td>Person</td>
+    <td>person name</td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>has*</td>
+    <td>Is a*</td>
+    <td></td>
+  </tr>
+</table> 
+
+#### Participant 5
+ <table style="width:100%">
+  <tr>
+    <td>Vehicle</td>
+    <td>Bus</td>
+    <td>model name</td>
+  </tr>
+  <tr>
+    <td>Manufacturer</td>
+    <td>City Traffic</td>
+    <td>Public Vehicle</td>
+  </tr>
+   <tr>
+    <td>Car</td>
+    <td>manufactured by</td>
+    <td>Private Vehicle</td>
+  </tr>
+   <tr>
+    <td>Train</td>
+    <td>manufacturing date</td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>has*</td>
+    <td>Is a*</td>
+    <td></td>
+  </tr>
+</table> 
+
+#### Participant 6
+<table style="width:100%">
+  <tr>
+    <td>Child</td>
+    <td>childs birthplace</td>
+    <td>Family Tree</td>
+  </tr>
+  <tr>
+    <td>Female</td>
+    <td>Mother</td>
+    <td>Grandmother</td>
+  </tr>
+   <tr>
+    <td>Male</td>
+    <td>gives birth</td>
+    <td>Father</td>
+  </tr>
+   <tr>
+    <td>Person</td>
+    <td>person name</td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>has*</td>
+    <td>Is a*</td>
+    <td></td>
+  </tr>
+</table> 
+#### Participant 7
+<table style="width:100%">
+  <tr>
+    <td>Child</td>
+    <td>childs birthplace</td>
+    <td>Family Tree</td>
+  </tr>
+  <tr>
+    <td>Female</td>
+    <td>Mother</td>
+    <td>Grandmother</td>
+  </tr>
+   <tr>
+    <td>Male</td>
+    <td>gives birth</td>
+    <td>Father</td>
+  </tr>
+   <tr>
+    <td>Person</td>
+    <td>person name</td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>has*</td>
+    <td>Is a*</td>
+    <td></td>
+  </tr>
+</table> 
+
+#### Participant 8
+ <table style="width:100%">
+  <tr>
+    <td>Vehicle</td>
+    <td>Bus</td>
+    <td>model name</td>
+  </tr>
+  <tr>
+    <td>Manufacturer</td>
+    <td>City Traffic</td>
+    <td>Public Vehicle</td>
+  </tr>
+   <tr>
+    <td>Car</td>
+    <td>manufactured by</td>
+    <td>Private Vehicle</td>
+  </tr>
+   <tr>
+    <td>Train</td>
+    <td>manufacturing date</td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>has*</td>
+    <td>Is a*</td>
+    <td></td>
+  </tr>
+</table> 
+
+#### Participant 9
+ <table style="width:100%">
+  <tr>
+    <td>Vehicle</td>
+    <td>Bus</td>
+    <td>model name</td>
+  </tr>
+  <tr>
+    <td>Manufacturer</td>
+    <td>City Traffic</td>
+    <td>Public Vehicle</td>
+  </tr>
+   <tr>
+    <td>Car</td>
+    <td>manufactured by</td>
+    <td>Private Vehicle</td>
+  </tr>
+   <tr>
+    <td>Train</td>
+    <td>manufacturing date</td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>has*</td>
+    <td>Is a*</td>
+    <td></td>
+  </tr>
+</table> 
+
+#### Participant 10
+<table style="width:100%">
+  <tr>
+    <td>Child</td>
+    <td>childs birthplace</td>
+    <td>Family Tree</td>
+  </tr>
+  <tr>
+    <td>Female</td>
+    <td>Mother</td>
+    <td>Grandmother</td>
+  </tr>
+   <tr>
+    <td>Male</td>
+    <td>gives birth</td>
+    <td>Father</td>
+  </tr>
+   <tr>
+    <td>Person</td>
+    <td>person name</td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>has*</td>
+    <td>Is a*</td>
+    <td></td>
+  </tr>
+</table> 
+
+#### Participant 11
+<table style="width:100%">
+  <tr>
+    <td>Child</td>
+    <td>childs birthplace</td>
+    <td>Family Tree</td>
+  </tr>
+  <tr>
+    <td>Female</td>
+    <td>Mother</td>
+    <td>Grandmother</td>
+  </tr>
+   <tr>
+    <td>Male</td>
+    <td>gives birth</td>
+    <td>Father</td>
+  </tr>
+   <tr>
+    <td>Person</td>
+    <td>person name</td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>has*</td>
+    <td>Is a*</td>
+    <td></td>
+  </tr>
+</table> 
+#### Participant 12
+ <table style="width:100%">
+  <tr>
+    <td>Vehicle</td>
+    <td>Bus</td>
+    <td>model name</td>
+  </tr>
+  <tr>
+    <td>Manufacturer</td>
+    <td>City Traffic</td>
+    <td>Public Vehicle</td>
+  </tr>
+   <tr>
+    <td>Car</td>
+    <td>manufactured by</td>
+    <td>Private Vehicle</td>
+  </tr>
+   <tr>
+    <td>Train</td>
+    <td>manufacturing date</td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>has*</td>
+    <td>Is a*</td>
+    <td></td>
+  </tr>
+</table> 
+
 ### T5: Based on the modeled concept space of the task T2, the participants had to fill out a Computer System Usability Questionnaire (CSUQ) as a post study task. 
 
 <table style="width:100%">
@@ -967,6 +1313,343 @@ Please refer to table shown in the Section T2 for the task completion time resul
  </table>
 
 ### T8: The participants had to highlight the concepts as a cued recall process in a table of 6 × 4 with twenty four concepts, which they think they modeled using WebVOWL Editor.
+
+#### Participant 1
+ <table style="width:100%">
+  <tr>
+    <td>Vehicle</td>
+    <td>Bus</td>
+    <td>model name</td>
+  </tr>
+  <tr>
+    <td>Manufacturer</td>
+    <td>City Traffic</td>
+    <td>Public Vehicle</td>
+  </tr>
+   <tr>
+    <td>Car</td>
+    <td>manufactured by</td>
+    <td>Private Vehicle</td>
+  </tr>
+   <tr>
+    <td>Train</td>
+    <td>manufacturing date</td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>has*</td>
+    <td>Is a*</td>
+    <td></td>
+  </tr>
+</table> 
+#### Participant 2
+<table style="width:100%">
+  <tr>
+    <td>Child</td>
+    <td>childs birthplace</td>
+    <td>Family Tree</td>
+  </tr>
+  <tr>
+    <td>Female</td>
+    <td>Mother</td>
+    <td>Grandmother</td>
+  </tr>
+   <tr>
+    <td>Male</td>
+    <td>gives birth</td>
+    <td>Father</td>
+  </tr>
+   <tr>
+    <td>Person</td>
+    <td>person name</td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>has*</td>
+    <td>Is a*</td>
+    <td></td>
+  </tr>
+</table> 
+#### Participant 3
+<table style="width:100%">
+  <tr>
+    <td>Child</td>
+    <td>childs birthplace</td>
+    <td>Family Tree</td>
+  </tr>
+  <tr>
+    <td>Female</td>
+    <td>Mother</td>
+    <td>Grandmother</td>
+  </tr>
+   <tr>
+    <td>Male</td>
+    <td>gives birth</td>
+    <td>Father</td>
+  </tr>
+   <tr>
+    <td>Person</td>
+    <td>person name</td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>has*</td>
+    <td>Is a*</td>
+    <td></td>
+  </tr>
+</table> 
+#### Participant 4
+ <table style="width:100%">
+  <tr>
+    <td>Vehicle</td>
+    <td>Bus</td>
+    <td>model name</td>
+  </tr>
+  <tr>
+    <td>Manufacturer</td>
+    <td>City Traffic</td>
+    <td>Public Vehicle</td>
+  </tr>
+   <tr>
+    <td>Car</td>
+    <td>manufactured by</td>
+    <td>Private Vehicle</td>
+  </tr>
+   <tr>
+    <td>Train</td>
+    <td>manufacturing date</td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>has*</td>
+    <td>Is a*</td>
+    <td></td>
+  </tr>
+</table> 
+#### Participant 5
+<table style="width:100%">
+  <tr>
+    <td>Child</td>
+    <td>childs birthplace</td>
+    <td>Family Tree</td>
+  </tr>
+  <tr>
+    <td>Female</td>
+    <td>Mother</td>
+    <td>Grandmother</td>
+  </tr>
+   <tr>
+    <td>Male</td>
+    <td>gives birth</td>
+    <td>Father</td>
+  </tr>
+   <tr>
+    <td>Person</td>
+    <td>person name</td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>has*</td>
+    <td>Is a*</td>
+    <td></td>
+  </tr>
+</table> 
+#### Participant 6
+ <table style="width:100%">
+  <tr>
+    <td>Vehicle</td>
+    <td>Bus</td>
+    <td>model name</td>
+  </tr>
+  <tr>
+    <td>Manufacturer</td>
+    <td>City Traffic</td>
+    <td>Public Vehicle</td>
+  </tr>
+   <tr>
+    <td>Car</td>
+    <td>manufactured by</td>
+    <td>Private Vehicle</td>
+  </tr>
+   <tr>
+    <td>Train</td>
+    <td>manufacturing date</td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>has*</td>
+    <td>Is a*</td>
+    <td></td>
+  </tr>
+</table> 
+#### Participant 7
+ <table style="width:100%">
+  <tr>
+    <td>Vehicle</td>
+    <td>Bus</td>
+    <td>model name</td>
+  </tr>
+  <tr>
+    <td>Manufacturer</td>
+    <td>City Traffic</td>
+    <td>Public Vehicle</td>
+  </tr>
+   <tr>
+    <td>Car</td>
+    <td>manufactured by</td>
+    <td>Private Vehicle</td>
+  </tr>
+   <tr>
+    <td>Train</td>
+    <td>manufacturing date</td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>has*</td>
+    <td>Is a*</td>
+    <td></td>
+  </tr>
+</table> 
+#### Participant 8
+<table style="width:100%">
+  <tr>
+    <td>Child</td>
+    <td>childs birthplace</td>
+    <td>Family Tree</td>
+  </tr>
+  <tr>
+    <td>Female</td>
+    <td>Mother</td>
+    <td>Grandmother</td>
+  </tr>
+   <tr>
+    <td>Male</td>
+    <td>gives birth</td>
+    <td>Father</td>
+  </tr>
+   <tr>
+    <td>Person</td>
+    <td>person name</td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>has*</td>
+    <td>Is a*</td>
+    <td></td>
+  </tr>
+</table> 
+#### Participant 9
+<table style="width:100%">
+  <tr>
+    <td>Child</td>
+    <td>childs birthplace</td>
+    <td>Family Tree</td>
+  </tr>
+  <tr>
+    <td>Female</td>
+    <td>Mother</td>
+    <td>Grandmother</td>
+  </tr>
+   <tr>
+    <td>Male</td>
+    <td>gives birth</td>
+    <td>Father</td>
+  </tr>
+   <tr>
+    <td>Person</td>
+    <td>person name</td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>has*</td>
+    <td>Is a*</td>
+    <td></td>
+  </tr>
+</table> 
+#### Participant 10
+ <table style="width:100%">
+  <tr>
+    <td>Vehicle</td>
+    <td>Bus</td>
+    <td>model name</td>
+  </tr>
+  <tr>
+    <td>Manufacturer</td>
+    <td>City Traffic</td>
+    <td>Public Vehicle</td>
+  </tr>
+   <tr>
+    <td>Car</td>
+    <td>manufactured by</td>
+    <td>Private Vehicle</td>
+  </tr>
+   <tr>
+    <td>Train</td>
+    <td>manufacturing date</td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>has*</td>
+    <td>Is a*</td>
+    <td></td>
+  </tr>
+</table> 
+#### Participant 11
+ <table style="width:100%">
+  <tr>
+    <td>Vehicle</td>
+    <td>Bus</td>
+    <td>model name</td>
+  </tr>
+  <tr>
+    <td>Manufacturer</td>
+    <td>City Traffic</td>
+    <td>Public Vehicle</td>
+  </tr>
+   <tr>
+    <td>Car</td>
+    <td>manufactured by</td>
+    <td>Private Vehicle</td>
+  </tr>
+   <tr>
+    <td>Train</td>
+    <td>manufacturing date</td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>has*</td>
+    <td>Is a*</td>
+    <td></td>
+  </tr>
+</table> 
+#### Participant 12
+<table style="width:100%">
+  <tr>
+    <td>Child</td>
+    <td>childs birthplace</td>
+    <td>Family Tree</td>
+  </tr>
+  <tr>
+    <td>Female</td>
+    <td>Mother</td>
+    <td>Grandmother</td>
+  </tr>
+   <tr>
+    <td>Male</td>
+    <td>gives birth</td>
+    <td>Father</td>
+  </tr>
+   <tr>
+    <td>Person</td>
+    <td>person name</td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>has*</td>
+    <td>Is a*</td>
+    <td></td>
+  </tr>
+</table> 
 
 ### T9: Based on the modeled concept space of the task T6, the participants had to fill out a CSUQ questionnaire as a post task.
 <table style="width:100%">
