@@ -641,7 +641,7 @@ The results of T2 and T6 are presented in the table below:
     <td>Grandson</td>
     <td><strike>childs birthplace</strike></td>
     <td>has kids</td>
-    <td><strike>gives birth</strike></td>
+    <td>gives birth</td>
   </tr>
    <tr>
     <td><strike>Person</strike></td>
@@ -1593,7 +1593,7 @@ Please refer to table shown in the Section T2 for the task completion time resul
   </tr>
    <tr>
     <td><strike>is a*</strike></td>
-    <td>Brand name</td>
+     <td><strike>Brand name</strike></td>
     <td><strike>model name</strike></td>
     <td>BMW</td>
   </tr>
