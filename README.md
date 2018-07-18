@@ -1306,3 +1306,71 @@ Please refer to table shown in the Section T2 for the task completion time resul
     <td>5.667</td>
   </tr>
  </table>
+
+## Qualitative Recordings From The Participants
+
+<table style="width:100%">
+  <tr>
+    <th><b>Participant ID</b></th>
+    <th><b>Remark/Quote/User Recording</b></th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Crossing Concepts on paper as modeling them, found problem with highlighting of Classes while naming with WebVOWL.</td>
+  </tr>
+  
+  <tr>
+    <td>2</td>
+    <td>Didm't crossed concepts on paper while modeling the concepts, expect more help prompts for both the tools.</td>
+  </tr>
+  
+  <tr>
+    <td>3</td>
+    <td>Not crossed concepts while modeling the concepts.</td>
+  </tr>
+  
+  <tr>
+    <td>4</td>
+    <td>Crossed concepts on paper while modeling them, user quotes: "I love using the diagramatic or visual representation for modeling the ontologies."</td>
+  </tr>
+  
+  <tr>
+    <td>5</td>
+    <td>Crossed concepts on paper while modeling the ontologies, found double click in the WebVOWL Editor Problematic.</td>
+  </tr>
+  
+  <tr>
+    <td>6</td>
+    <td>Crossed concepts on paper while modeling the ontologies, found subclass panel issue in WebVOWL Editor.</td>
+  </tr>
+  
+  <tr>
+    <td>7</td>
+    <td>Crossed concepts on paper while modeling the ontologies, expected more datatype properties as template and didn't realized the correct beahaviour of changing the datatype property while using the right panel.</td>
+  </tr>
+  
+  <tr>
+    <td>8</td>
+    <td>Crossed concepts on paper while modeling the ontologies, didn't found data format as datatype property in WebVOWL editor and also didn't realized editing of links using dragging in WebVOWL Editor.</td>
+  </tr>
+  
+  <tr>
+    <td>9</td>
+    <td>Didn't crossed concepts on paper while modeling the ontologies, found WebVOWL editor easy to change and quoted that color improvements can even improve the user experience.</td>
+  </tr>
+  
+  <tr>
+    <td>10</td>
+    <td>Crossed concepts on paper while modeling the ontologies.</td>
+  </tr>
+  
+  <tr>
+    <td>11</td>
+    <td>Didn't crossed concepts while modeling the ontologies.</td>
+  </tr>
+  
+  <tr>
+    <td>12</td>
+    <td>Found double click confusing in WebVOWL Editor and suggested the grouping and sectioning of the left panel can further enhance the user experience design.</td>
+  </tr>
+</table>
