@@ -866,7 +866,7 @@ The results of T2 and T6 are presented in the table below:
   </tr>
    <tr>
     <td><strike>manufacturing date</strike></td>
-    <td><strike>has*</strike></td>
+    <td>has*</td>
     <td>Traffic Signals</td>
     <td><strike>Train</strike></td>
   </tr>
