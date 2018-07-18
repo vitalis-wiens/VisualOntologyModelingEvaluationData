@@ -3,7 +3,125 @@ A Comparative User Evaluation on Visual Ontology Modeling Using Node-Link Diagra
 
 *It is a complementary repository for a complete evaluation data based on the research conducted for comparing Visual Ontology Modeling Tool Using Node-Link Diagrams with Indented Tree Hierarchical Interfaces* 
 
-Following is the result recorded based on the tasks that users performed:
+The order in which users performed and the concep spaces they used as presented in [Small Concept Spaces For Ontology Evaluations](https://github.com/RohanAsmat/SmallConceptSpacesForOntologyEvaluations/blob/master/README.md) are listed in the table below:
+
+<table style="width:100%">
+  <tr>
+    <th><b>Participant ID</b></th>
+    <th><b>Tool A</b></th>
+    <th><b>Concept Space A</b></th>
+    <th><b>Tool B</b></th>
+    <th><b>Concept Space B</b></th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Protégé</td>
+    <td>Family Tree</td>
+    <td>WebVOWL Editor</td>
+    <td>City Traffic </td>
+  </tr>
+  
+  <tr>
+    <td>2</td>
+    <td>Protégé</td>
+    <td>City Traffic</td>
+    <td>WebVOWL Editor</td>
+    <td>Family Tree</td>
+  </tr>
+  
+  
+  <tr>
+    <td>3</td>
+    <td>Protégé</td>
+    <td>City Traffic</td>
+    <td>WebVOWL Editor</td>
+    <td>Family Tree</td>
+  </tr>
+  
+  
+  <tr>
+    <td>4</td>
+    <td>WebVOWL Editor</td>
+    <td>Family Tree</td>
+    <td>Protégé</td>
+    <td>City Traffic</td>
+  </tr>
+  
+  
+  <tr>
+    <td>5</td>
+    <td>WebVOWL Editor</td>
+    <td>City Traffic</td>
+    <td>Protégé</td>
+    <td>Family Tree</td>
+  </tr>
+  
+  
+  <tr>
+    <td>6</td>
+    <td>Protégé</td>
+    <td>Family Tree</td>
+    <td>WebVOWL Editor</td>
+    <td>City Traffic</td>
+  </tr>
+  
+  
+  <tr>
+    <td>7</td>
+    <td>Protégé</td>
+    <td>Family Tree</td>
+    <td>WebVOWL Editor</td>
+    <td>City Traffic</td>
+  </tr>
+  
+  
+  <tr>
+    <td>8</td>
+    <td>WebVOWL Editor</td>
+    <td>City Traffic</td>
+    <td>Protégé</td>
+    <td>Family Tree</td>
+  </tr>
+  
+  
+  <tr>
+    <td>9</td>
+    <td>WebVOWL Editor</td>
+    <td>City Traffic</td>
+    <td>Protégé</td>
+    <td>Family</td>
+  </tr>
+  
+  
+  <tr>
+    <td>10</td>
+    <td>Protégé</td>
+    <td>Family Tree</td>
+    <td>WebVOWL Editor</td>
+    <td>City Traffic</td>
+  </tr>
+  
+  
+  <tr>
+    <td>11</td>
+    <td>WebVOWL Editor</td>
+    <td>Family Tree</td>
+    <td>Protégé</td>
+    <td>City Traffic</td>
+  </tr>
+  
+  
+  <tr>
+    <td>12</td>
+    <td>Protégé</td>
+    <td>City Traffic</td>
+    <td>WebVOWL Editor</td>
+    <td>Family Tree</td>
+  </tr>
+  
+</table>
+
+Below we present the result recorded based on the tasks that users performed:
 
 ### T1: The participants had to fill out a demographic questionnaire, stating their name, age, profession, experience in ontology modeling, experience with Protégé and WebVOWL, and any sort of visual, physical, or color blind impairment.
 
