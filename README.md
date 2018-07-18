@@ -686,7 +686,7 @@ The results of T2 and T6 are presented in the table below:
    <tr>
     <td><strike>is a*</strike></td>
     <td>Brand name</td>
-    <td><strike>model name</strike></td>
+    <td>model name</td>
     <td>BMW</td>
   </tr>
    <tr>
@@ -703,9 +703,9 @@ The results of T2 and T6 are presented in the table below:
   </tr>
    <tr>
     <td><strike>manufacturing date</strike></td>
-    <td><strike>has*</strike></td>
+    <td>has*</td>
     <td>Traffic Signals</td>
-    <td><strike>Train</strike></td>
+    <td>Train</td>
   </tr>
 </table> 
 
