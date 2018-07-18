@@ -603,9 +603,9 @@ The results of T2 and T6 are presented in the table below:
     <td><strike>manufactured by</strike></td>
   </tr>
    <tr>
-    <td><strike>is a*</strike></td>
+    <td>is a*</td>
     <td>Brand name</td>
-    <td><strike>model name</strike></td>
+    <td>model name</td>
     <td>BMW</td>
   </tr>
    <tr>
@@ -1566,7 +1566,7 @@ Please refer to table shown in the Section T2 for the task completion time resul
    <tr>
     <td><strike>Grandmother</strike></td>
     <td>Daughter</td>
-    <td><strike>Female</strike></td>
+    <td>Female</td>
     <td>Cousin</td>
   </tr>
    <tr>
