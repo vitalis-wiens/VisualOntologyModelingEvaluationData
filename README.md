@@ -3,7 +3,7 @@ A Comparative User Evaluation on Visual Ontology Modeling Using Node-Link Diagra
 
 *It is a complementary repository for a complete evaluation data based on the research conducted for comparing Visual Ontology Modeling Tool Using Node-Link Diagrams with Indented Tree Hierarchical Interfaces* 
 
-A complete user study manual was presented to that participants can be found at the [Link](https://github.com/RohanAsmat/VisualOntologyModelingEvaluationData/blob/master/User%20Study%20Manual%20.pdf).
+A **complete user study manual** which was presented to the participants can be found at the [Link](https://github.com/RohanAsmat/VisualOntologyModelingEvaluationData/blob/master/User%20Study%20Manual%20.pdf).
 
 The order in which users performed and the concept spaces they used is presented in [Small Concept Spaces For Ontology Evaluations](https://github.com/RohanAsmat/SmallConceptSpacesForOntologyEvaluations/blob/master/README.md) are listed in the table below:
 
