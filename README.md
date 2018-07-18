@@ -512,7 +512,7 @@ The results of T2 and T6 are presented in the table below:
 <table style="width:100%">
   <tr>
     <th></th>
-    <th colspan="3"><b>Participant Choice on Likert Scale</b></th>
+    <th colspan="19"><b>Participant Choice on Likert Scale</b></th>
   </tr>
   <tr>
     <th><b>Participant ID</b></th>
@@ -532,7 +532,8 @@ The results of T2 and T6 are presented in the table below:
     <th><b>Question 14</b></th>
     <th><b>Question 15</b></th>
     <th><b>Question 16</b></th>
-    <th><b>Question 187</b></th>
+    <th><b>Question 17</b></th>
+    <th><b>Question 18</b></th>
     <th><b>Question 19</b></th>
   </tr>
   <tr>
